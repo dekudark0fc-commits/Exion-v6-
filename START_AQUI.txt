@@ -1,0 +1,13 @@
+EXION V6 — COMEÇE AQUI
+
+1) Envie todos os arquivos desta pasta para um repositório GitHub.
+2) No Render: New + -> Blueprint -> escolha o repositório.
+3) Quando pedir GEMINI_API_KEY, coloque sua chave do Gemini.
+4) Aguarde o deploy terminar.
+5) Abra o endereço .onrender.com.
+6) O botão 📞 Voz deve aparecer ao lado do 🎙️ microfone.
+
+Se quiser apenas corrigir o site antigo, não crie outro serviço: abra o serviço exion-ai existente e confira qual GitHub/branch ele usa. Faça o deploy desse código nessa mesma origem.
+
+Arquivo principal de configuração do Render: render.yaml
+Guia completo: RENDER_PRONTO.md

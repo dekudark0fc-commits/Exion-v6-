@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.onrender.exion_ai.twa",
+        "sha256_cert_fingerprints": ["63:D3:DD:23:7C:E9:75:F1:8A:88:FE:2B:E6:63:88:34:31:F4:AA:CA:5F:66:B1:71:62:A7:23:B8:0D:7A:BE:EE"]
+      }
+    }]
